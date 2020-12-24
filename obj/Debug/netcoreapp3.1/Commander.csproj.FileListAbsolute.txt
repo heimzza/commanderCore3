@@ -63,3 +63,6 @@ D:\dotnet\newCommander\Commander\bin\Debug\netcoreapp3.1\runtimes\win\lib\netsta
 D:\dotnet\newCommander\Commander\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\dotnet\newCommander\Commander\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\dotnet\newCommander\Commander\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\dotnet\newCommander\Commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\dotnet\newCommander\Commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\dotnet\newCommander\Commander\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
